@@ -15,7 +15,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "python -m pip install requests pylint"
+	"postCreateCommand": "python -m pip install requests"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
